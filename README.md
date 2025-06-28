@@ -38,7 +38,7 @@ Each segment is connected to an Arduino digital pin:
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/asish-sgeorge/arduino-7segment-counter.git
+    git clone https://github.com/Asish-SGeorge/arduino-7segment-counter.git
     ```
 
 2. Open the `.ino` file in the Arduino IDE.
